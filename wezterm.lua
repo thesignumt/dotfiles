@@ -1,0 +1,1 @@
+../../../Users/user/.config/wezterm/wezterm.lua
